@@ -1,4 +1,4 @@
-package com.first.demo;
+package com.start.helloworld;
 
 public class HelloWorld {
     public static void main(String[] args) {
